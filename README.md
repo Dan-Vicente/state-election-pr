@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>README</title>
+
 </head>
 <body>
 	<h1>Data Analysis of Governor Candidates' Assets in PR in 2018</h1>
@@ -47,7 +47,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>README</title>
+
 </head>
 <body>
 	<h1>Análise de Dados sobre Bens de Candidatos a Governador do PR em 2018</h1>
